@@ -5,8 +5,6 @@
 🌐 **Live Demo:**  
 https://himadriaardraa-web.github.io/sort_lab/
 
-💻 **Source Code:**  
-https://github.com/himadriaardraa-web/sort_lab
 
 ---
 
